@@ -30,4 +30,4 @@ Unless playing ECS games, the ECS toggle is recommended to be turned off by defa
 -Dig Dug
 -Pac-Man
 
-The disc button has not been implemented or mapped as a button yet. There's a ticket open regarding this: https://github.com/MiSTer-devel/Intv_MiSTer/issues/16
+The disc button has not been implemented. There's an open ticket regarding this: https://github.com/MiSTer-devel/Intv_MiSTer/issues/16
